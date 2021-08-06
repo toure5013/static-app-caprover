@@ -3,7 +3,7 @@
 - git init (or git clone)
 - npm install
 - build your project : npm run build
-- copy the build file and replace this one
+- copy the 'build file ' / 'dist file'  and replace this one
 - git add .
 - git commit -m "message"
 - caprover login
